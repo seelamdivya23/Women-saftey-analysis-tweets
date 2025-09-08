@@ -1,0 +1,17 @@
+cycler
+Cython
+gensim
+joblib
+kiwisolver
+matplotlib
+nltk
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+smart-open
+typing-extensions
